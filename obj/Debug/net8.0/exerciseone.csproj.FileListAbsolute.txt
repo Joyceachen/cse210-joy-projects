@@ -1,0 +1,14 @@
+C:\cse210_joy\week1\exerciseone\bin\Debug\net8.0\exerciseone.exe
+C:\cse210_joy\week1\exerciseone\bin\Debug\net8.0\exerciseone.deps.json
+C:\cse210_joy\week1\exerciseone\bin\Debug\net8.0\exerciseone.runtimeconfig.json
+C:\cse210_joy\week1\exerciseone\bin\Debug\net8.0\exerciseone.dll
+C:\cse210_joy\week1\exerciseone\bin\Debug\net8.0\exerciseone.pdb
+C:\cse210_joy\week1\exerciseone\obj\Debug\net8.0\exerciseone.GeneratedMSBuildEditorConfig.editorconfig
+C:\cse210_joy\week1\exerciseone\obj\Debug\net8.0\exerciseone.AssemblyInfoInputs.cache
+C:\cse210_joy\week1\exerciseone\obj\Debug\net8.0\exerciseone.AssemblyInfo.cs
+C:\cse210_joy\week1\exerciseone\obj\Debug\net8.0\exerciseone.csproj.CoreCompileInputs.cache
+C:\cse210_joy\week1\exerciseone\obj\Debug\net8.0\exerciseone.dll
+C:\cse210_joy\week1\exerciseone\obj\Debug\net8.0\refint\exerciseone.dll
+C:\cse210_joy\week1\exerciseone\obj\Debug\net8.0\exerciseone.pdb
+C:\cse210_joy\week1\exerciseone\obj\Debug\net8.0\exerciseone.genruntimeconfig.cache
+C:\cse210_joy\week1\exerciseone\obj\Debug\net8.0\ref\exerciseone.dll
